@@ -6,5 +6,5 @@ http://stackoverflow.com/questions/11184322/slow-internet-connection-leads-to-fo
 http://www.android-ios-tutorials.com/android/android-asynctask-example-download-progress/
 http://www.learn2crack.com/2013/10/android-asynctask-json-parsing-example.html
 http://blog.dahanne.net/2009/08/16/how-to-access-http-resources-from-android/
-
+http://stackoverflow.com/questions/15608499/getting-java-net-sockettimeoutexception-connection-timed-out-in-android
 temp
